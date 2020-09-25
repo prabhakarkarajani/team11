@@ -70,7 +70,8 @@ const useStyles = makeStyles((theme) => ({
     borderRadius: 8,
     marginRight: 10,
     background: '#5baca8',
-    color: 'white'
+    color: 'white',
+    display: 'inline-block'
   }
 }));
 function App() {
